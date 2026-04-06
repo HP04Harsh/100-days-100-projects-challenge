@@ -1,0 +1,27 @@
+# Import tkinter module
+import tkinter as tk
+
+# Create the main window
+root = tk.Tk()
+
+# Set window title
+root.title("Simple Tkinter App")
+
+# Set window size (Width x Height)
+root.geometry("300x200")
+
+# Function to run when button is clicked
+def on_button_click():
+    # Change the label text when button is pressed
+    label.config(text="Button Clicked!")
+
+# Create a label (text display)
+label = tk.Label(root, text="Hello, Tkinter!", font=("Arial", 14))
+label.pack(pady=20)  # Add some vertical spacing
+
+# Create a button
+button = tk.Button(root, text="Click Me", command=on_button_click)
+button.pack()
+
+# Run the application (main loop)
+root.mainloop()
