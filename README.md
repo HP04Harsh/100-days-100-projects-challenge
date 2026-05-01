@@ -150,6 +150,6 @@
 
 **⭐️ If you find this journey helpful, please consider giving it a star!**
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=3776AB&height=100&section=footer" width="100%" />
+
 
 </div>
