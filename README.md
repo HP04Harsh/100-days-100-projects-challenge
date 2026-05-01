@@ -121,7 +121,7 @@
 | **75** | Face Detection App | `OpenCV` |
 | **100**| Autoencoders | `Deep Learning` |
 
-*(Note: Every day folder contains its own source code and assets)*
+*(Note: Every week  folder contains its own days source code and assets)*
 </details>
 
 ---
