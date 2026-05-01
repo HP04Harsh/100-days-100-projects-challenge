@@ -17,7 +17,7 @@
 
 <!-- PROGRESS TRACKER SECTION -->
 <h3>📊 Current Mastery Progress</h3>
-<img src="https://geps.dev/progress/1?dangerColor=800000&warningColor=ff9900&happyColor=00ff00" width="70%" />
+<img src="https://geps.dev/progress/2?dangerColor=800000&warningColor=ff9900&happyColor=00ff00" width="70%" />
 
 <br />
 
