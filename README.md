@@ -25,7 +25,7 @@
     <tr>
         <td align="center" width="33%">
             <h3>🚀 Day</h3>
-            <font size="6" color="#FFD43B">01</font><br/>of 100
+            <font size="6" color="#FFD43B">02</font><br/>of 100
         </td>
         <td align="center" width="33%">
             <h3>📈 Status</h3>
